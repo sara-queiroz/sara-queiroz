@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Sara Queiroz Alves de Oliveira, tenho 17 anos e sou natural do Ceará. Estou concluindo o ensino médio na EEEP Rita Aguir Barbosa, com o curso técnico em redes de computadores. Atualmente, estou cursando desenvolvimento em fullstack no Amontada Valley. Sou apaixonada por tecnologia e pretendo ampliar portas e conhecimentos na área.
+Me chamo Sara Queiroz Alves de Oliveira, tenho 17 anos e sou natural do Ceará. Estou concluindo o ensino médio na EEEP Rita Aguiar Barbosa, com o curso técnico em redes de computadores. Atualmente, estou cursando desenvolvimento em fullstack no Amontada Valley. Sou apaixonada por tecnologia e pretendo ampliar portas e conhecimentos na área.
 
 ---
 
